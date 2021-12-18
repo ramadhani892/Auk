@@ -14,6 +14,10 @@
       "description": "Dapatkan API Hash di web my.telegram.org",
       "required": true
     },
+    "ALIVE_NAME": {
+      "description": "Isi Nama telegram mu.",
+      "required": true
+    },
     "BOT_TOKEN": {
       "description": "Buat Bot di t.me/botfather Masukan BOT tokennya disini",
       "required": false
